@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+Supply Chain Management Project using Blockchain - RUSHABH GUNJAL
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+As part of an advanced project, I developed a Supply Chain Management system leveraging blockchain technology to enhance transparency, security, and efficiency in tracking goods from origin to destination. Key aspects of the project included:
 
-Try running some of the following tasks:
+Design and Implementation: Designed a decentralized application (DApp) on the Ethereum blockchain, enabling secure and immutable recording of supply chain transactions.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Smart Contracts: Developed smart contracts to automate and verify transactions between parties, reducing the need for intermediaries and minimizing the risk of fraud.
+
+Transparency and Traceability: Implemented features to provide real-time tracking and traceability of products, allowing all stakeholders to access accurate and tamper-proof data regarding the movement and status of goods.
+
+Integration with IoT: Integrated Internet of Things (IoT) devices to automatically capture and record data (e.g., temperature, location) on the blockchain, enhancing the monitoring of sensitive goods like pharmaceuticals and perishables.
+
+User Interface: Created a user-friendly interface for stakeholders to easily interact with the blockchain system, view transaction history, and monitor supply chain activities
+
+This project provided valuable insights into the application of blockchain technology in supply chain management, demonstrating its potential to revolutionize the industry by increasing efficiency, reducing costs, and ensuring product authenticity.
+
+
